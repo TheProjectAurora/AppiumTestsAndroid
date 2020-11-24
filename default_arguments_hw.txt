@@ -1,0 +1,5 @@
+--pythonpath libraries
+--loglevel trace:info
+--outputdir output
+--variablefile ../libraries/RobotVariables.py
+tests\Tests.robot
